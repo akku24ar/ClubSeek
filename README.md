@@ -4,8 +4,8 @@ ClubSeek is service that specializes in recommending bars based on user preferen
 
 ## Understanding the Documentation
 For this project, we have two main documentation files: 
-- **Major Project Summary Document - Team 4** - provides only the details of the final iteration of the project, including all assumptions, requirements, diagrams, testing, backlog, etc. The comprehensive report shows the sprint-by-sprint evolution of the project, so diagrams and documentation within that report will show change over time
-- **Major Project Comprehensive Report - Team 4** In order to get a quick grasp of our project, view the summary document and utilize the comprehensive report for the more detailed documentation
+- [**Major Project Summary Document - Team 4**](https://github.com/radical-teach/major-project-group-4/blob/main/Summary.pdf) - provides only the details of the final iteration of the project, including all assumptions, requirements, diagrams, testing, backlog, etc. The comprehensive report shows the sprint-by-sprint evolution of the project, so diagrams and documentation within that report will show change over time
+- [**Major Project Comprehensive Report - Team 4**](https://github.com/radical-teach/major-project-group-4/blob/main/Comprehensive.pdf) In order to get a quick grasp of our project, view the summary document and utilize the comprehensive report for the more detailed documentation
 
 ## Quick Start
 1. Install Docker. See [Docker Installation Instructions](https://docs.docker.com/get-docker/)
